@@ -1,0 +1,20 @@
+{
+  "name": "artefact",
+  "version": "1.0.0",
+  "description": "The heart of XBOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssoraa/Artefact.js.git"
+  },
+  "author": "Sora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssoraa/Artefact.js/issues"
+  },
+  "homepage": "https://github.com/ssoraa/Artefact.js#readme"
+}
